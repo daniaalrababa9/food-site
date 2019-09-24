@@ -1,0 +1,32 @@
+body{background-color: lightgrey}
+ h1{ font-size : 80px;
+color: rgb(102, 5, 141);
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border-style: solid;}
+nav li{display: inline-block;
+color: rgb(161, 98, 163);
+font-size: 30px;
+font-family: fantasy;
+padding: 40px;}
+a{color: rgb(139, 20, 50);
+background-color: rgb(202, 167, 167)}
+img{width: 300px;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;}
+h2{color: rgb(59, 5, 18);
+font-family: cursive;
+font-size: 20px;
+border: 20px;
+}
+p{color: rgb(161, 5, 52);}
+footer p{color: blueviolet;}
+/* problem to fix
++headr
++nav li chang
++image
++h2
++article
++footer
+ */
