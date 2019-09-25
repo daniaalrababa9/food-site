@@ -1,3 +1,15 @@
+var dania ,age
+dania = 'my name is dania'
+age = 'my age is'
+var x, y, z;
+x = 10;
+y = 16;
+z = x + y;
+document.write('<h3>'+ dania +'</h3>');
+document.write('<h3>'+ age +'</h3>');
+document.write('<h3>'+ z +'</h3>');
+
+
 var yourweight = prompt ('your weight');
 var greeting ;
 if (yourweight > 100) {
@@ -12,17 +24,8 @@ if (yourweight > 100) {
 
 document.write('<h3>'+ greeting +'</h3>');
 
-var today = new Date();
-var hournow = today.getHours();
-var greetin;
-if (hourNow > 18) {
-    greetin = 'Good evening!';
-} else if (hourNow > 12) {
-    greetin = 'Good afternoon!';
-} else if (hournow > 0) {
-    greetin = 'Good morning!';   
-} else {
-    greetin = 'welcome!';
-}
 
-document.write('<p>'+ greetin +'</p>');
+
+
+
+
