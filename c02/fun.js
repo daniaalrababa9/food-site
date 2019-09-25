@@ -14,6 +14,8 @@ var foodpicture = function() {
     picture = '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1b4aUkeDLpqVONYk2mC2NyDkCHHY_gGu9DopVujRIXQshhCv">'
   }
 
+
+  
   // output
   return picture;
 }
